@@ -1,0 +1,62 @@
+[
+  {
+    "original_url": "http://localhost:3000/?v=1750599187389",
+    "short_url": 726
+  },
+  {
+    "original_url": "http://localhost:3000/?v=1750599187418",
+    "short_url": 88
+  },
+  {
+    "original_url": "ftp:/john-doe.invalidTLD",
+    "short_url": 1948
+  },
+  {
+    "original_url": "http://localhost:3000/?v=1750599305340",
+    "short_url": 2516
+  },
+  {
+    "original_url": "http://localhost:3000/?v=1750599305369",
+    "short_url": 2442
+  },
+  {
+    "original_url": "http://localhost:3000/?v=1750599457231",
+    "short_url": 1910
+  },
+  {
+    "original_url": "http://localhost:3000/?v=1750599457258",
+    "short_url": 1958
+  },
+  {
+    "original_url": "http://localhost:3000/?v=1750599590534",
+    "short_url": 4647
+  },
+  {
+    "original_url": "http://localhost:3000/?v=1750599590560",
+    "short_url": 4696
+  },
+  {
+    "original_url": "http://localhost:3000/?v=1750599793747",
+    "short_url": 2417
+  },
+  {
+    "original_url": "http://localhost:3000/?v=1750599793773",
+    "short_url": 8137
+  },
+  {
+    "original_url": "http://localhost:3000/?v=1750599802859",
+    "short_url": 1052
+  },
+  {
+    "original_url": "http://localhost:3000/?v=1750599802885",
+    "short_url": 10916
+  },
+  {
+    "original_url": "http://localhost:3000/?v=1750599897782",
+    "short_url": 9364
+  },
+  {
+    "original_url": "http://localhost:3000/?v=1750599897808",
+    "short_url": 13571
+  }
+]
